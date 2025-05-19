@@ -1,4 +1,3 @@
-# Pharmacy-Management-System
 # 💊 Pharmacy Management System
 
 A Java-based desktop application designed to streamline operations in a pharmacy, including inventory management, sales tracking, and prescription processing. This system was developed as part of a university project.
